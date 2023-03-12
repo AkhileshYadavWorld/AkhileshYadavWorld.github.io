@@ -2,9 +2,9 @@
   "name": "Hello World BY AKHILESH",
   "short_name": "Hello AKHILESH",
   "icons": [{
-    "src": "/smart.jpg",
+    "src": "/smart.png",
       "sizes": "128x128",
-      "type": "image/jpg"
+      "type": "image/png"
     }],
   "lang": "en-US",
   "start_url": "/index.html",
