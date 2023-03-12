@@ -3,7 +3,7 @@
   "short_name": "Hello AKHILESH",
   "icons": [{
     "src": "/smart.png",
-      "sizes": "128x128",
+      "sizes": "512x512",
       "type": "image/png"
     }],
   "lang": "en-US",
