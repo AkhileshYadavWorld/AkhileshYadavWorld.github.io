@@ -12,5 +12,21 @@
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white",
-"prefer_related_applications":"true"
+"prefer_related_applications":"true",
+"screenshots":[
+  {
+    "src":"/smart.png",
+    "type":"image/png",
+    "sizes":"1836x1836"
+    
+  },
+  {
+    "src":"/smart.png",
+    "type":"image/png",
+    "sizes":"1836x1836"
+    
+    
+  }
+]
+
 }
