@@ -3,7 +3,7 @@
     "short_name": "SAARTHI",
     "icons": [
       {
-        "src": "assests/smart.svg",
+        "src": "/smart.svg",
         "sizes": "any",
         "type": "image/svg+xml",
         "purpose": "any"
